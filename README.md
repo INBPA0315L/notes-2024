@@ -23,10 +23,6 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use a `Scanner` object (without understanding its OO part) to read the standard input.
 1. You must be able to use methods `System.out.print()`, `System.out.println()`, and `System.out.printf()` to write the standard output.
 1. You must be able to use the control statements.
-1. You must be able to convert between types `String`, `int`, and `double`.
-1. You must be able to process the command-line arguments.
-1. You must be able to compare two strings using the `equals()` or `Objects.equal()` methods.
-1. You must be able to look for a method's behavior in the JavaDoc using Google.
 1. You must be able to solve the basic exercises of HLPL1, handling the three common input formats: https://github.com/INBPA0211L/notes-2024/blob/main/week-03/README.md
 
 ### Topic `A2`
