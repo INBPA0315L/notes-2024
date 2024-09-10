@@ -8,8 +8,8 @@ The goal of this section is to understand the type hierarchy, and be able to rea
 
 1. Primitive types vs. reference types.
 
-   * primitive types: `int`, `boolean`, `char`
-   * reference types: `String`, `Scanner`, `Integer`
+   * primitive types: `int`, `char`, `long`, `double`, `boolean`, ...
+   * reference types: `String`, `Scanner`, `Integer`, ...
 
 1. Control statements.
 
@@ -20,30 +20,11 @@ The goal of this section is to understand the type hierarchy, and be able to rea
    * the `if-else` statement
    * the `switch` statement
 
-1. Reading the standard input using class `Scanner`.
-
-   * creating (instantiating) a `Scanner` object
-   * using the `nextLine()`, `next()`, and `nextInt()` methods
-   * using the `hasNextLine()`, `hasNext()`, and `hasNextInt()` methods
-
 1. Writing the standard output using object `System.out` and its methods.
 
    1. `System.out.print()` - Print something without a newline.
    1. `System.out.println()` - Print something with a newline.
    1. `System.out.printf()` - Inherited behavior from language C.
-
-1. String concatenation using operator `+`.
-
-   1. Try to read the sides of a shape (rectangle, square, triangle, etc.) and print its area, circumference or perimeter using a verbose message!
-
-1. Conversion between `String` and primitive types.
-
-   Try to use the following methods to convert to/from type `String`:
-
-   1. `Double.parseDouble()`
-   1. `Integer.parseInt()`
-   1. `String.valueOf()`
-   1. `String.format()`
 
 1. Syntax errors vs. exceptions.
 
@@ -53,9 +34,18 @@ The goal of this section is to understand the type hierarchy, and be able to rea
    1. Try to print something inside a loop, after a `break` statement!
    1. Try to use an uninitialized `max` or `min` variable!
    1. Try to write a method without returning the expected type!
-   1. Try to write a `switch` statement for strings without having a `default` branch!
    1. Try to perform a zero-integer division!
    1. Try to index a non-existing element of an array!
+
+1. Reading the standard input using class `Scanner`.
+
+   * creating (instantiating) a `Scanner` object
+   * using the `nextLine()`, `next()`, and `nextInt()` methods
+   * using the `hasNextLine()`, `hasNext()`, and `hasNextInt()` methods
+
+1. String concatenation using operator `+`.
+
+   1. Try to read the sides of a shape (rectangle, square, triangle, etc.) and print its area, circumference or perimeter using a verbose message!
 
 1. Using packages
 
