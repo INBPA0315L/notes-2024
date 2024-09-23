@@ -6,7 +6,7 @@ This repository contains notes and exercises for subject *High-level programming
 
 ### Topic `A1`
 
-The environment. Language basics. Using packages. Handling the standard input using a `Scanner` object. Handling the standard output using the `System.out` methods.
+The environment. Language basics. Handling the standard input using a `Scanner` object. Handling the standard output using the `System.out` methods.
 
 #### Notes
 
@@ -29,9 +29,29 @@ The next lab will be based on the following expectations. Please ensure that you
 
 Defining classes. Defining fields. Overriding methods inherited from the `Object` class. Defining constructors. Visibilities. The `final` keyword on fields and variables. Reading and writing the `stdin` and the `stdout` in CSV format.
 
+### Notes
+
+1. [`A201` - OO basics 1](A201-oo-basics-1.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to define a top-level class.
+1. You must be able to define instance-level fields.
+1. You must be understand the visibility levels.
+1. You must be able to define constructors.
+1. You must be able to override the `toString()` method.
+1. You must be able to override the `equals()` and the `hashCode()` methods.
+1. You must be able to compare two objects using the `equals()` or `Objects.equal()` methods.
+1. You must be able to generate `getter` and `setter` methods.
+1. You must be able to read CSV documents from the standard input.
+1. You must be able to look for a method's behavior in the JavaDoc using Google.
+1. You must be able to convert between types `String`, `int`, and `double`.
+
 ### Topic `A3`
 
-Implementing the `Comparable` interface. Creating, populating, and sorting 1D arrays. The `final` keyword on methods and classes. Primitive vs. reference arrays. The `String.split()` method. Using command-line arguments. Reading, sorting, and writing the `stdin` and the `stdout` in CSV format.
+Implementing the `Comparable` interface. Creating, populating, and sorting 1D arrays. The `final` keyword on methods and classes. Primitive vs. reference arrays. Using command-line arguments. Reading, sorting, and writing the `stdin` and the `stdout` in CSV format.
 
 ### Topic `B1`
 
