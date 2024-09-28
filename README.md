@@ -25,6 +25,8 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use the control statements.
 1. You must be able to solve the basic exercises of HLPL1, handling the three common input formats: https://github.com/INBPA0211L/notes-2024/blob/main/week-03/README.md
 
+---
+
 ### Topic `A2`
 
 Defining classes. Defining fields. Overriding methods inherited from the `Object` class. Defining constructors. Visibilities. Reading and writing the `stdin` and the `stdout` in CSV format.
@@ -49,6 +51,8 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to look for a method's behavior in the JavaDoc using Google.
 1. You must be able to convert between types `String`, `int`, and `double`.
 
+---
+
 ### Topic `A3`
 
 Implementing the `Comparable` interface. Creating, populating, and sorting 1D arrays. Using the `final` keyword on fields and variables. Primitive vs. reference arrays. Using command-line arguments. Reading, sorting, and writing the `stdin` and the `stdout` in CSV format.
@@ -68,25 +72,37 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to make your type comparable by defining its natural order using the `Comparable` interface.
 1. You must be able to sort array using the `Arrays.sort()` method.
 
+---
+
 ### Topic `B1`
 
 Inheritance, static methods, static fields, named constants. Using the `final` keyword on methods and classes. Interfaces and generics. Implementing the `Comparator` interface. Defining more top-level classes in the same source code. Defing nested, static nested, and anonymous classes.
+
+---
 
 ### Topic `B2`
 
 Abstract classes, enums, multidimensional arrays (matrices and jagged arrays), UML basics.
 
+---
+
 ### Topic `B3`
 
 File handling, exception handling.
+
+---
 
 ### Topic `C1`
 
 Maven basics. Generating methods using Lombok annotations. Reading and writing JSON using Jackson.
 
+---
+
 ### Topic `C2`
 
 The `List` interface and its implementations, the `Set` interface and its implementations. Implementing queries using `List` and `Set` objects.
+
+---
 
 ### Topic `C3`
 
