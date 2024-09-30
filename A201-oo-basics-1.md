@@ -1,8 +1,8 @@
 [↑ Back](./README.md)
 
-# `A201` - Defining classes
+# `A201` - OO Basics #1
 
-Defining classes. Defining fields. Overriding methods inherited from the `Object` class. Defining constructors. Visibilities. The `final` keyword on fields and variables. Reading and writing the `stdin` and the `stdout` in CSV format.
+Defining classes. Defining fields. Overriding methods inherited from the `Object` class. Defining constructors. Reading and writing the `stdin` and the `stdout` in CSV format.
 
 ## Highlights
 
@@ -43,7 +43,6 @@ Defining classes. Defining fields. Overriding methods inherited from the `Object
    1. creating a constructor having a default value
    1. creating the no-args (default) constructor explicitly
    1. understanding the implicit constructor
-   1. invoking constructors from each other
    1. using the `this` keyword
 
 1. Type hierarchy
@@ -76,11 +75,6 @@ Defining classes. Defining fields. Overriding methods inherited from the `Object
    1. understanding the reason
    1. generating the `hashCode` method
 
-1. Using the `final` keyword
-
-   1. on fields
-   1. on variables
-
 1. Reading CSV format from the standard input
 
    1. using the method `String.split()`
@@ -90,14 +84,13 @@ Defining classes. Defining fields. Overriding methods inherited from the `Object
 
 Try to implement the following exercise sheets. Skip the sorting part. Moreover, you do not have to keep multiple records (objects) in the memory.
 
-1. [`P20301` - Airports](./exercises/P203/P20301.md)
-1. [`P20302` - Rollercoasters](./exercises/P203/P20302.md)
-1. [`P20303` - LEGO sets](./exercises/P203/P20303.md)
+1. [`P20201` - Airports](./exercises/P202/P20201.md)
+1. [`P20202` - Rollercoasters](./exercises/P202/P20202.md)
+1. [`P20203` - LEGO sets](./exercises/P202/P20203.md)
 
 You can enhance the solution by the following directions:
 
 1. always use the most restricted visibility
-1. use the `final` keyword when it is possible
 1. generate as many code snippets with the IDE as you can
 
 ## References

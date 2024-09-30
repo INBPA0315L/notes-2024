@@ -33,7 +33,7 @@ Defining classes. Defining fields. Overriding methods inherited from the `Object
 
 #### Notes
 
-1. [`A201` - OO basics 1](A201-oo-basics-1.md)
+1. [`A201` - OO Basics #1](A201-oo-basics-1.md)
 
 #### Highlights
 
@@ -59,7 +59,7 @@ Implementing the `Comparable` interface. Creating, populating, and sorting 1D ar
 
 #### Notes
 
-1. [`A301` - OO basics 2](A301-oo-basics-2.md)
+1. [`A301` - OO Basics #2](A301-oo-basics-2.md)
 
 #### Highlights
 
@@ -88,7 +88,7 @@ Abstract classes, enums, multidimensional arrays (matrices and jagged arrays), U
 
 ### Topic `B3`
 
-File handling, exception handling.
+File handling, exception handling. Using `StringBuilder` and `StringJoiner` classes.
 
 ---
 
