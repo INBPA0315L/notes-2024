@@ -44,6 +44,7 @@
 ## Exercises
 
 1. [`P20411` - Airports](./exercises/P204/P20411.md)
+1. [`P20412` - Roller Coasters](./exercises/P204/P20412.md)
 
 ## References
 
