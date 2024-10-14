@@ -76,19 +76,39 @@ The next lab will be based on the following expectations. Please ensure that you
 
 ### Topic `B1`
 
-Inheritance, static methods, static fields, named constants. Using the `final` keyword on methods and classes. Interfaces and generics. Implementing the `Comparator` interface. Defining more top-level classes in the same source code. Defing nested, static nested, and anonymous classes.
+Inheritance, static methods, static fields, named constants. Using the `final` keyword on methods and classes. Interfaces and generics. Implementing the `Comparator` interface. Defining more top-level classes in the same source code. Defining nested, static nested, and anonymous classes.
+
+#### Notes
+
+1. [`B101` - Inheritance, `static` members](B101-inheritance.md)
+1. [`B102` - Implementing the `Comparator` interface](B102-comparator.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to derive a class.
+1. You must be able to use the `final` keyword on methods and classes.
+1. You must be able to define custom instance-level and class-level methods.
+1. You must be able to define custom class-level methods.
+1. You must be able to define named constants.
+1. You must be able to implement the `Comparator` interface.
+1. You must be able to define multiple top-level classes.
+1. You must be able to define nested classes.
+1. You must be able to define static nested classes.
+1. You must be able to define anonymous classes.
 
 ---
 
 ### Topic `B2`
 
-Abstract classes, enums, multidimensional arrays (matrices and jagged arrays), UML basics.
+Interfaces, abstract classes, enums, multidimensional arrays (matrices and jagged arrays).
 
 ---
 
 ### Topic `B3`
 
-File handling, exception handling. Using `StringBuilder` and `StringJoiner` classes.
+File handling, exception handling. Using `StringBuilder` and `StringJoiner` classes. UML basics.
 
 ---
 
