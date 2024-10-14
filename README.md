@@ -76,7 +76,7 @@ The next lab will be based on the following expectations. Please ensure that you
 
 ### Topic `B1`
 
-Inheritance, static methods, static fields, named constants. Using the `final` keyword on methods and classes. Interfaces and generics. Implementing the `Comparator` interface. Defining more top-level classes in the same source code. Defining nested, static nested, and anonymous classes.
+Inheritance, static methods, static fields, named constants. Using the `final` keyword on methods and classes. Implementing the `Comparator` interface. Defining more top-level classes in the same source code. Defining nested, static nested, and anonymous classes.
 
 #### Notes
 
