@@ -15,18 +15,6 @@
    1. on class: making a class non-extendable
    1. on a method: making the implementation non-overrideable
 
-1. Defining class-level members
-
-   1. the `static` keyword
-
-1. Defining named constants
-
-   1. the `final` and `static` keywords
-
-1. Overloading methods
-
-   1. two methods are identical if their names and the sequence of their parameter types are the same
-
 ## Exercises
 
 1. [`P20401` - People and students](./exercises/P204/P20401.md)

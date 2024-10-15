@@ -89,14 +89,8 @@ The next lab will be based on the following expectations. Please ensure that you
 
 1. You must be able to derive a class.
 1. You must be able to use the `final` keyword on methods and classes.
-1. You must be able to define custom instance-level and class-level methods.
-1. You must be able to define custom class-level methods.
-1. You must be able to define named constants.
 1. You must be able to implement the `Comparator` interface.
 1. You must be able to define multiple top-level classes.
-1. You must be able to define nested classes.
-1. You must be able to define static nested classes.
-1. You must be able to define anonymous classes.
 
 ---
 

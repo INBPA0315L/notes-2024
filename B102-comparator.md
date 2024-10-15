@@ -24,23 +24,6 @@
    1. the `public` class's name should meet the source file's name
    1. other classes cannot be `public`
 
-1. Defining nested classes
-
-   1. you need to invoke the constructor via a reference
-   1. the nesting instance's members can be accessed from the nested class
-   1. useful in rare cases
-
-1. Defining static nested classes
-
-   1. you need to invoke the constructor in a static way
-   1. the nesting instance's members can be accessed from the nested class
-   1. useful in many cases (when a reusable class has a strong connection with another)
-
-1. Defining anonymous classes
-
-   1. you can give a disposible definition for the abstract methods
-   1. useful in many cases (when you need a single instance)
-
 ## Exercises
 
 1. [`P20411` - Airports](./exercises/P204/P20411.md)
