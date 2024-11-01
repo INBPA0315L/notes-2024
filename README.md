@@ -96,7 +96,7 @@ The next lab will be based on the following expectations. Please ensure that you
 
 ### Topic `B2`
 
-Defining nested, static nested, and anonymous classes. Enums.
+Defining nested, static nested, and anonymous classes. Enum classes.
 
 #### Notes
 
@@ -119,7 +119,13 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to define and instantiate nested classes.
 1. You must be able to define and instantiate static nested classes.
 1. You must be able to define and instantiate anonymous classes.
-1. You must be able to define and use an Enum class.
+1. You must be able to define and use enum classes.
+
+#### Codes
+
+1. [Project `B2`](./codes/B2)
+
+    Contains solutions for exercises `P20511`, `P20512`, and `P20513`.
 
 ---
 
