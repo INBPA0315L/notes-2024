@@ -1,6 +1,6 @@
 [↑ Back](./README.md)
 
-# `B301` - Exception and File Handling
+# `B301` - Exceptions and files
 
 ## Highlights
 
