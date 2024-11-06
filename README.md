@@ -151,8 +151,8 @@ The next lab will be based on the following expectations. Please ensure that you
 #### Exercises
 
 1. [`P20611` - Airports (`B3`)](./exercises/P206/P20611.md)
-1. [`P20612` - Roller Coasters (`B3`)](./exercises/P206/P20611.md)
-1. [`P20613` - LEGO Sets (`B3`)](./exercises/P206/P20611.md)
+1. [`P20612` - Roller Coasters (`B3`)](./exercises/P206/P20612.md)
+1. [`P20613` - LEGO Sets (`B3`)](./exercises/P206/P20613.md)
 
 ---
 
