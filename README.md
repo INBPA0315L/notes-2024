@@ -133,6 +133,27 @@ The next lab will be based on the following expectations. Please ensure that you
 
 Static methods, static fields, named constants. File handling. Exception handling.
 
+#### Notes
+
+1. [`B301` - Exceptions and files](B301-exceptions-and-files.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must understand the hierarchy of exceptions.
+1. You must be able to use the blocks `try`, `catch`, and `finally` to handle the required types of exceptions.
+1. You must be able to use the `throws` and `throw` keywords.
+1. You must be able to define a custom exception type.
+1. You must be able to read and write textfiles.
+1. You must be able to use the *try with resources* construct.
+
+#### Exercises
+
+1. [`P20611` - Airports (`B3`)](./exercises/P206/P20611.md)
+1. [`P20612` - Roller Coasters (`B3`)](./exercises/P206/P20611.md)
+1. [`P20613` - LEGO Sets (`B3`)](./exercises/P206/P20611.md)
+
 ---
 
 ### Topic `C1`
