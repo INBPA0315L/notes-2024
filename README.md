@@ -137,6 +137,12 @@ Static methods, static fields, named constants. File handling. Exception handlin
 
 1. [`B301` - Exceptions and files](B301-exceptions-and-files.md)
 
+#### Exercises
+
+1. [`P20611` - Airports (`B3`)](./exercises/P206/P20611.md)
+1. [`P20612` - Roller Coasters (`B3`)](./exercises/P206/P20612.md)
+1. [`P20613` - LEGO Sets (`B3`)](./exercises/P206/P20613.md)
+
 #### Highlights
 
 The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
@@ -148,11 +154,11 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to read and write textfiles.
 1. You must be able to use the *try with resources* construct.
 
-#### Exercises
+#### Codes
 
-1. [`P20611` - Airports (`B3`)](./exercises/P206/P20611.md)
-1. [`P20612` - Roller Coasters (`B3`)](./exercises/P206/P20612.md)
-1. [`P20613` - LEGO Sets (`B3`)](./exercises/P206/P20613.md)
+1. [Project `B3`](./codes/B3)
+
+    Contains solutions for exercise `P20613` and demo codes for exception handling.
 
 ---
 
