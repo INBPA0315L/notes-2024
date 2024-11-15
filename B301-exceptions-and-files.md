@@ -19,18 +19,18 @@
    1. using multiple `catch` blocks
    1. the `throws` keyword in method signatures
    1. throw an exception using the keyword `throw`
-   1. create a custom exception
+   1. create a custom exception (extra)
    1. the Pokémon Exception Handling
 
 1. Reading a file using `Scanner`
 
    1. implements the `Closeable` interface
-   1. pass the `File` object to the constructor (instatiating a `FileWriter`)
+   1. pass the `File` object to the constructor
 
 1. Writing a file using `PrintWriter`
 
    1. implements the `Closeable` interface
-   1. pass the `PrintWriter` object to the constructor (instatiating a `FileWriter`)
+   1. pass the file's name to the constructor
 
 1. Try with resources
 
@@ -38,7 +38,7 @@
    1. instantiating one resource
    1. instantiating more resources
 
-1. Using buffered I/O operations
+1. Using buffered I/O operations (extra)
 
    1. `BufferedWriter` for writing
    1. `BufferedReader` for reading
