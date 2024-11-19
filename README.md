@@ -139,9 +139,9 @@ Static methods, static fields, named constants. File handling. Exception handlin
 
 #### Exercises
 
-1. [`P20611` - Airports (`B3`)](./exercises/P206/P20611.md)
-1. [`P20612` - Roller Coasters (`B3`)](./exercises/P206/P20612.md)
-1. [`P20613` - LEGO Sets (`B3`)](./exercises/P206/P20613.md)
+1. [`P2B3E01` - Airports (`B3`)](./exercises/P2B3/P2B3E01.md)
+1. [`P2B3E02` - Roller Coasters (`B3`)](./exercises/P2B3/P2B3E02.md)
+1. [`P2B3E03` - LEGO Sets (`B3`)](./exercises/P2B3/P2B3E03.md)
 
 #### Highlights
 
