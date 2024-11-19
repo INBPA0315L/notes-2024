@@ -164,7 +164,28 @@ The next lab will be based on the following expectations. Please ensure that you
 
 ### Topic `C1`
 
-Maven basics. Generating methods using Lombok annotations. Reading and writing JSON using Jackson.
+Maven basics. Generating methods using Lombok annotations. Reading and writing JSON using Jackson. 
+
+#### Notes
+
+1. [`C101` - Maven Basics](C101-maven.md)
+1. [`C102` - Project Lombok](C102-lombok.md)
+1. [`C103` - Jackson](C103-jackson.md)
+
+#### Exercises
+
+1. [`P2C1E01` - LEGO Sets (`C1`)](./exercises/P2C1/P2C1E01.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to create a Maven project.
+1. You must be able to add a dependency to a `pom.xml`.
+1. You must be able to build a Maven project.
+1. You must be able to use *Project Lombok*'s selected annotations according to the document [`C102` - Project Lombok](C102-lombok.md).
+1. You must be able to read and write JSON documents containing arrays using *Jackson* and *Project Lombok*.
+1. You must be able to implement queries using basic algorithms (based on your knowledge gained in other subjects).
 
 ---
 
