@@ -199,8 +199,24 @@ The next lab will be based on the following expectations. Please ensure that you
 
 The `List` interface and its implementations, the `Set` interface and its implementations. Implementing queries using `List` and `Set` objects.
 
+1. [`C201` - Interface `List` and its implementations](C201-list.md)
+1. [`C202` - Interface `Set` and its implementations](C202-set.md)
+
+#### Exercises
+
+1. [`P2C2E01` - LEGO Sets (`C2`)](./exercises/P2C2/P2C2E01.md)
+1. [`P2C2E02` - Students (`C2`)](./exercises/P2C2/P2C2E02.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to use the template project's `Query` interface and `Repository` class.
+1. You must be able to instantiate and use the `List` interface's `ArrayList` implementation to implement queries.
+1. You must be able to instantiate and use the `Set` interface's `HashSet` and `TreeSet` implementation to implement queries.
+
 ---
 
-### Topic `C3`
+### Topic `C3` (extra topic)
 
 The `Map` interface and its implementations. Implementing queries using `Map` objects.
