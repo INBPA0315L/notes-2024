@@ -3,6 +3,7 @@ package lego;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 
+@NoArgsConstructor(access = AccessLevel.PRIVATE)
 @AllArgsConstructor
 @Getter
 @Setter(AccessLevel.PACKAGE)
