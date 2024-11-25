@@ -187,6 +187,12 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to read and write JSON documents containing arrays using *Jackson* and *Project Lombok*.
 1. You must be able to implement queries using basic algorithms (based on your knowledge gained in other subjects).
 
+#### Codes
+
+1. [Project `C1`](./codes/C1)
+
+    Contains a partial solution for exercise `P2C1E01` and a demo code for using the *JavaFaker* library.
+
 ---
 
 ### Topic `C2`
