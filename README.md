@@ -215,6 +215,12 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to instantiate and use the `List` interface's `ArrayList` implementation to implement queries.
 1. You must be able to instantiate and use the `Set` interface's `HashSet` and `TreeSet` implementation to implement queries.
 
+#### Codes
+
+1. [Project `C2`](./codes/C2)
+
+    Contains the full solution for exercise `P2C2E01`.
+
 ---
 
 ### Topic `C3` (extra topic)
