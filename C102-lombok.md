@@ -13,7 +13,7 @@ Add the following element to `pom.xml`:
 <dependency>
    <groupId>org.projectlombok</groupId>
    <artifactId>lombok</artifactId>
-   <version>1.18.34</version>
+   <version>1.18.42</version>
    <scope>provided</scope>
 </dependency>
 ```
